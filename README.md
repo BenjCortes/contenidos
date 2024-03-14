@@ -17,7 +17,7 @@
 
     Significa que este no será un contenido obligatorio del curso, pero para quienes quieren aprender un poco más, tengan la opción de aprender algo más.
 
-
+Obviamente voy a modificar todo lo que me den
    
 
 
